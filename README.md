@@ -7,6 +7,6 @@ Este site contém uma compilação de julgados da TNU até setembro de 2023.
 
 Link para os julgados [https://github.com/FlavioRitz/JulgadosTNU](https://github.com/FlavioRitz/FlavioRitz.github.io/blob/7629727538993689f57887ec66c0eb4fbe9e3701/Julgados%20TNU_Versao-2-ate-set.2023.pdf)
 
-Link para os julgados [https://nbviewer.jupyter.org/LeandroTNU.github.io/Julgados TNU_Versao-2-ate-set.2023.pdf]
+Link para os julgados [https://nbviewer.jupyter.org/github.com/FlavioRitz/LeandroTNU.github.io/blob/main/Julgados%20TNU_Versao-2-ate-set.2023.pdf]
 
 
