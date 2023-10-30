@@ -34,11 +34,5 @@ Este é um parágrafo de texto.
 
 [Imagem de um gato](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cat_on_a_couch.jpg/1200px-Cat_on_a_couch.jpg)
 
-## Código
-
-```python
-print("Hello, world!")
-´´´
-
 [Texto do link dos julgados] (https://github.com/FlavioRitz/JulgadosTNU)
 
